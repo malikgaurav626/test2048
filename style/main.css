@@ -517,7 +517,7 @@ hr {
 .game-intro {
   float: left;
   line-height: 42px;
-  margin-bottom: 0; }
+  margin-bottom: 0; color: #d3d3d3 !important;}
 
 .restart-button {
   display: inline-block;
@@ -565,7 +565,9 @@ hr {
     width: 55%;
     display: block;
     box-sizing: border-box;
-    line-height: 1.65; }
+    line-height: 1.65; 
+    color: #d3d3d3 !important;
+  }
 
   .restart-button {
     width: 42%;
